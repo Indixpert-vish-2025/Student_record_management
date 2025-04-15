@@ -1,0 +1,34 @@
+[
+    {
+        "ID": "101",
+        "Name": "vishal",
+        "Contact": "7261000589",
+        "Email": "vishalmihir55@gmail.com",
+        "Education": [
+            {
+                "Education": "12th",
+                "Year": "2021"
+            },
+            {
+                "Education": "b.com",
+                "Year": "2025"
+            }
+        ]
+    },
+    {
+        "ID": "102",
+        "Name": "sunny",
+        "Contact": "787852478",
+        "Email": "mirganj hathua road",
+        "Education": [
+            {
+                "Education": "11",
+                "Year": "2022"
+            },
+            {
+                "Education": "12",
+                "Year": "2024"
+            }
+        ]
+    }
+]
